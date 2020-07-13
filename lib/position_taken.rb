@@ -1,1 +1,5 @@
-# code your #position_taken? method here!
+# #position_taken? method
+
+def position_taken?
+  
+end
